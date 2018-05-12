@@ -1,0 +1,44 @@
+_repo: Economisti-del-cinque-e-seicento_22502
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Montanari, Geminiano
+    birthdate: 1633
+    deathdate: 1687
+    gutenberg_agent_id: '25365'
+    url: http://www.gutenberg.org/2009/agents/25365
+    wikipedia: http://it.wikipedia.org/wiki/Geminiano_Montanari
+  - agent_name: Serra, Antonio, active 1613
+    gutenberg_agent_id: '25364'
+    url: http://www.gutenberg.org/2009/agents/25364
+    wikipedia: http://en.wikipedia.org/wiki/Antonio_Serra
+  - agent_name: Scaruffi, Gasparo
+    birthdate: 1519
+    deathdate: 1584
+    gutenberg_agent_id: '25363'
+    url: http://www.gutenberg.org/2009/agents/25363
+  editor:
+    agent_name: Graziani, Augusto
+    birthdate: 1865
+    deathdate: 1944
+    gutenberg_agent_id: '25362'
+    url: http://www.gutenberg.org/2009/agents/25362
+description: ''
+gutenberg_bookshelf: IT Economia
+gutenberg_issued: '2007-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22502'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Money'
+- !lcsh 'Economics'
+- !lcc 'HB'
+title: Economisti del cinque e seicento
+url: http://www.gutenberg.org/ebooks/22502
